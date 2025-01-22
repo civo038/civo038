@@ -1,6 +1,5 @@
 ## Hi there 👋
-# 💫 About Me:
-I'm currently working on MLOPS and FULLSTACK<br>I'm looking for people to collaborate on<br>I'm currently working on my tech skills<br>Ask me about AI/ML and NLP models<br>Fun fact: I am a dancer too
+
 
 
 ## 🌐 Socials:
